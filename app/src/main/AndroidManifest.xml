@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyDzOne">
-        <activity android:name=".MainActivityTYPE"></activity>
+        <activity android:name=".MainActivityCalendar"></activity>
+        <activity android:name=".MainActivityTYPE" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
